@@ -1,2 +1,2 @@
 # ProductCard-1
-Code to the YouTube-Video "Product Card HTML CSS UI Design #1" from the channel "codesuit"
+Code from the YouTube-Video "Product Card HTML CSS UI Design #1" (channel: codesuit)
